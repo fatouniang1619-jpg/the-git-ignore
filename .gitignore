@@ -3,5 +3,5 @@ test3.html
 .env
 *.txt
 *.log
-data/
+dossierlog/
 
